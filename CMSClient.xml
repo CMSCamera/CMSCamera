@@ -21,7 +21,7 @@
     <CycleRecord>0</CycleRecord>
     <WSTYPE>0</WSTYPE>
     <AlarmEnable>1</AlarmEnable>
-    <AlarmVideo>5</AlarmVideo>
+    <AlarmVideo>0</AlarmVideo>
     <AlarmBuzzer>2</AlarmBuzzer>
     <CusID>CvOv8mxnC+8=</CusID>
     <CusCRC>-1198372910</CusCRC>
@@ -31,10 +31,10 @@
     <SptNReg>1</SptNReg>
     <Binded>1</Binded>
     <SharedDevUpgFlag>0</SharedDevUpgFlag>
-    <VersionInfo>1.00.00.50</VersionInfo>
+    <VersionInfo>1.00.00.51</VersionInfo>
     <UserName>admin</UserName>
     <UserPhone>931435998</UserPhone>
-    <UserMail>kinhdoanh@yoosee.vip</UserMail>
+    <UserMail></UserMail>
     <WndColDefault>1</WndColDefault>
     <EnLocalNullPwd>1</EnLocalNullPwd>
     <DefLocalPwd>00000000</DefLocalPwd>
@@ -63,5 +63,5 @@
     <LoginType>0</LoginType>
     <RecvPushMesg>1</RecvPushMesg>
     <TipsForMesg>0</TipsForMesg>
-    <shareMesgId>1</shareMesgId>
+    <shareMesgId>1511</shareMesgId>
 </Config>
