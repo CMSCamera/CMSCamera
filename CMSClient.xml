@@ -27,19 +27,19 @@
     <CusCRC>-1198372910</CusCRC>
     <WsID>KqF1GGbg87U=</WsID>
     <WsCRC>1454294126</WsCRC>
-    <Feature>aad31f663d63f455e90d16b1cc834306</Feature>
+    <Feature>28041bc0a4fb545de389a97b56047a85</Feature>
     <SptNReg>1</SptNReg>
     <Binded>1</Binded>
     <SharedDevUpgFlag>0</SharedDevUpgFlag>
-    <VersionInfo>1.00.00.51</VersionInfo>
+    <VersionInfo>1.00.00.52</VersionInfo>
     <UserName>admin</UserName>
-    <UserPhone>931435998</UserPhone>
+    <UserPhone></UserPhone>
     <UserMail></UserMail>
     <WndColDefault>1</WndColDefault>
     <EnLocalNullPwd>1</EnLocalNullPwd>
     <DefLocalPwd>00000000</DefLocalPwd>
     <LanguageCount>9</LanguageCount>
-    <LanguageSelect>0</LanguageSelect>
+    <LanguageSelect>1</LanguageSelect>
     <Language0>English</Language0>
     <Language1>VietNam</Language1>
     <Language2>Traditional</Language2>
@@ -63,5 +63,5 @@
     <LoginType>0</LoginType>
     <RecvPushMesg>1</RecvPushMesg>
     <TipsForMesg>0</TipsForMesg>
-    <shareMesgId>1511</shareMesgId>
+    <shareMesgId>1887</shareMesgId>
 </Config>
